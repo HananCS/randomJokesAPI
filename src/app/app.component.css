@@ -1,0 +1,20 @@
+.title{
+  color:#dc143c;
+  font-family: 'Hanalei Fill', cursive;
+}
+
+.jokes{
+  font-family: 'Hanalei Fill', cursive;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 100;
+}
+
+button{
+  background-color:#dc143c;
+  border:none;
+  color:aliceblue;
+  padding-top: 100;
+}
+
+
+
